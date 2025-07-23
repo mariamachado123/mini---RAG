@@ -36,7 +36,7 @@ generator = pipeline("text-generation", model=model, tokenizer=tokenizer, device
 
 respuesta_generada = generator(
     prompt,
-    max_new_tokens=250,
+    max_new_tokens=100,
     temperature=0.5,
     top_p=0.9,
     repetition_penalty=1.2,

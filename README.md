@@ -9,7 +9,6 @@ Este proyecto crea un mini sistema RAG (Retrieval-Augmented Generation) que reci
 - `vectorizar.py`: carga y vectoriza frases filosóficas desde `frases.csv` a ChromaDB.  
 - `consulta.py`: recibe una frase, busca las citas más similares y genera una respuesta filosófica.  
 - `frases.csv`: archivo con 30+ frases y sus autores.  
-- `Dockerfile`: para correr el proyecto en un contenedor Docker  
 - `requirements.txt`: dependencias Python
 
 ## Instalación
@@ -27,6 +26,14 @@ Ejecutar los scripts en este orden:
 
 python vectorizar.py
 
-### Consulatpara probar el RAG:
+### Consulta para probar el RAG:
 
-Python consulta.py
+python consulta.py
+
+##Detalles
+
+Utilicé Hugging face, ya que es una manera bastante didáctica de conocer y aprender, además de que es local y gratuita y fácil de usar.
+
+No pude utilizar OpenAi porque llegó un momento que no podía utilizarlo, por lo que decidí cambiar.
+
+Además, existe la posibilidad de que, al empezar a ejecutar, al principio, pueda tardar, es normal.
