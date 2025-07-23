@@ -30,7 +30,7 @@ python vectorizar.py
 
 python consulta.py
 
-##Detalles
+## Detalles
 
 Utilicé Hugging face, ya que es una manera bastante didáctica de conocer y aprender, además de que es local y gratuita y fácil de usar.
 
