@@ -6,10 +6,10 @@ Este proyecto crea un mini sistema RAG (Retrieval-Augmented Generation) que reci
 
 ## Contenido principal
 
-- `vectorizar.py`: carga y vectoriza frases filosóficas desde `frases.csv` a ChromaDB.  
-- `consulta.py`: recibe una frase, busca las citas más similares y genera una respuesta filosófica.  
-- `frases.csv`: archivo con 30+ frases y sus autores.  
-- `requirements.txt`: dependencias Python
+- vectorizar.py: carga y vectoriza frases filosóficas desde frases.csv a ChromaDB.  
+- consulta.py: recibe una frase, busca las citas más similares y genera una respuesta filosófica.  
+- frases.csv: archivo con 30+ frases y sus autores.  
+- requirements.txt: dependencias Python
 
 ## Instalación
 
