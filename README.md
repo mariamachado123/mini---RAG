@@ -32,8 +32,8 @@ python consulta.py
 
 ## Detalles
 
-Utilicé Hugging face, ya que es una manera bastante didáctica de conocer y aprender, además de que es local y gratuita y fácil de usar.
+Utilicé Hugging face, ya que es una manera bastante didáctica de conocer y aprender, además de que es local, gratuita y fácil de usar.
 
 No pude utilizar OpenAi porque llegó un momento que no podía utilizarlo, por lo que decidí cambiar.
 
-Además, existe la posibilidad de que, al empezar a ejecutar, al principio, pueda tardar, es normal.
+Además, existe la posibilidad de que, al empezar a ejecutar, al principio pueda tardar, es normal.
