@@ -30,6 +30,9 @@ python vectorizar.py
 
 python consulta.py
 
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/f66112d0-7f3e-4562-866e-9757771bc3ff" />
+
+
 ## Detalles
 
 Utilicé Hugging face, ya que es una manera bastante didáctica de conocer y aprender, además de que es local, gratuita y fácil de usar.
